@@ -1,0 +1,4 @@
+:name "dobby_subs"
+:node-sname "dobby_subs"
+:lib-dirs '("_build/default/lib" "test")
+:app-include-dirs '("include")
